@@ -1,5 +1,6 @@
 # Workout
-Web ini tentang Latihan Workout agar terjadwal selama 1 minggu pengguna akan melihat jadwal kegiatan yang dilakukan selama seminggu yang terdapat latihan, waktu, hari dan jam yang sudah terjadwal.
+
+Web ini tentang latihan workout agar terjadwal selama 1 minggu. Pengguna akan melihat jadwal kegiatan yang dilakukan selama seminggu, yang terdapat latihan, waktu, hari, dan jam yang sudah terjadwal.
 
 ### Halaman Login
 ![Login](screenshots/Login.png)
@@ -8,7 +9,7 @@ Web ini tentang Latihan Workout agar terjadwal selama 1 minggu pengguna akan mel
 ![Dashboard](screenshots/Dashboard.png)
 
 ### Halaman Jadwal
-![Jadwal](screenshots/Jrofil.png)
+![Jadwal](screenshots/Jadwal.png)
 
 ### Halaman Profil
-![Profile](screenshots/Profil.png)
+![Profil](screenshots/Profil.png)
